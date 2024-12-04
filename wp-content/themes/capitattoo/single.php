@@ -1,0 +1,14 @@
+<?php get_header(); ?>
+
+<br><br>
+<div id="content" class = 'container mx-auto' style="color:white;background-color: rgba(0, 0, 0, 0.7);">
+    <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+        <h1><?php the_title(); ?></h1>
+        <div class="post-content">
+            <?php the_content(); ?>
+        </div>
+    <?php endwhile; endif; ?>
+<a href="<?php echo esc_url( home_url( '/dash/' ) ) ; ?>" class = 'btn btn-light'>Back</a>
+</div>
+
+<?php get_footer(); ?>

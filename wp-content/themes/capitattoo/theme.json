@@ -1,0 +1,34 @@
+{
+    "version": 2,
+    "settings": {
+      "color": {
+        "custom": false,
+        "defaultPalette": true
+      },
+      "spacing": {
+        "customMargin": true,
+        "customPadding": true
+      },
+      "typography": {
+        "customFontSize": true,
+        "fontSize": [
+          {
+            "name": "Small",
+            "slug": "small",
+            "size": "12px"
+          },
+          {
+            "name": "Normal",
+            "slug": "normal",
+            "size": "16px"
+          },
+          {
+            "name": "Large",
+            "slug": "large",
+            "size": "24px"
+          }
+        ]
+      }
+    }
+  }
+  

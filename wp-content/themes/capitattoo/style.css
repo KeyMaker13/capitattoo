@@ -1,0 +1,53 @@
+/**
+ * Theme Name:        Capi Tattoo
+ * Theme URI:         https://localhost/capitattoo
+ * Description:       This is a theme for a mock website for a small web development business.
+ * Version:           1.0.0
+ * Author:            Ivan Capistran
+ * Author URI:        https://example.com
+ * Tags:              block-patterns, full-site-editing
+ * Text Domain:       capitattoo
+ * Domain Path:       /assets/lang
+ * Tested up to:      6.4
+ * Requires at least: 6.2
+ * Requires PHP:      7.4
+ * License:           GNU General Public License v2.0 or later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ */
+
+
+ body {
+
+    background-image:url("assets/images/header-background.png");
+    background-position: left center right; /* Centers the background image */
+    background-repeat: no-repeat; /* Ensures the image doesn't repeat */
+    
+    
+    background-size: 1792px 1024px; 
+    
+    background-color: #000000; 
+    background-attachment: fixed;
+    
+    
+
+ }
+/* This will target all nav links in the navbar */
+.navbar-nav .nav-link {
+   color: white !important; /* Use !important to override any other styles */
+}
+
+/* Optional: Change color on hover */
+.navbar-nav .nav-link:hover {
+   color: rgba(255, 255, 255, 0.7); /* Slightly lighter on hover */
+}
+
+/* If you have a brand link (like logo) */
+.navbar-brand {
+   color: white !important; /* Ensure the brand text is white */
+}
+
+
+.navbar-toggler {
+   border-color: white; /* Change the border color of the toggler */
+}
+

@@ -1,0 +1,61 @@
+[05-Oct-2024 21:30:13 UTC] PHP Notice:  wp_json_file_decode(): Error when decoding a JSON file at path C:/Program Files/Ampps/www/capitattoo/wp-content/themes/capitattoo/theme.json: Syntax error in C:\Program Files\Ampps\www\capitattoo\wp-includes\functions.php on line 6085
+[05-Oct-2024 21:30:13 UTC] PHP Notice:  wp_json_file_decode(): Error when decoding a JSON file at path C:/Program Files/Ampps/www/capitattoo/wp-content/themes/capitattoo/styles/example.json: Syntax error in C:\Program Files\Ampps\www\capitattoo\wp-includes\functions.php on line 6085
+[05-Oct-2024 21:30:13 UTC] PHP Notice:  wp_json_file_decode(): Error when decoding a JSON file at path C:/Program Files/Ampps/www/capitattoo/wp-content/themes/capitattoo/theme.json: Syntax error in C:\Program Files\Ampps\www\capitattoo\wp-includes\functions.php on line 6085
+[05-Oct-2024 21:30:13 UTC] PHP Notice:  wp_json_file_decode(): Error when decoding a JSON file at path C:/Program Files/Ampps/www/capitattoo/wp-content/themes/capitattoo/styles/example.json: Syntax error in C:\Program Files\Ampps\www\capitattoo\wp-includes\functions.php on line 6085
+[05-Oct-2024 21:30:41 UTC] PHP Notice:  wp_json_file_decode(): Error when decoding a JSON file at path C:/Program Files/Ampps/www/capitattoo/wp-content/themes/capitattoo/theme.json: Syntax error in C:\Program Files\Ampps\www\capitattoo\wp-includes\functions.php on line 6085
+[05-Oct-2024 21:30:41 UTC] PHP Notice:  wp_json_file_decode(): Error when decoding a JSON file at path C:/Program Files/Ampps/www/capitattoo/wp-content/themes/capitattoo/styles/example.json: Syntax error in C:\Program Files\Ampps\www\capitattoo\wp-includes\functions.php on line 6085
+[05-Oct-2024 21:30:41 UTC] PHP Notice:  wp_json_file_decode(): Error when decoding a JSON file at path C:/Program Files/Ampps/www/capitattoo/wp-content/themes/capitattoo/theme.json: Syntax error in C:\Program Files\Ampps\www\capitattoo\wp-includes\functions.php on line 6085
+[05-Oct-2024 21:30:41 UTC] PHP Notice:  wp_json_file_decode(): Error when decoding a JSON file at path C:/Program Files/Ampps/www/capitattoo/wp-content/themes/capitattoo/styles/example.json: Syntax error in C:\Program Files\Ampps\www\capitattoo\wp-includes\functions.php on line 6085
+[05-Oct-2024 21:37:25 UTC] PHP Notice:  wp_json_file_decode(): Error when decoding a JSON file at path C:/Program Files/Ampps/www/capitattoo/wp-content/themes/capitattoo/styles/example.json: Syntax error in C:\Program Files\Ampps\www\capitattoo\wp-includes\functions.php on line 6085
+[05-Oct-2024 21:37:25 UTC] PHP Notice:  wp_json_file_decode(): Error when decoding a JSON file at path C:/Program Files/Ampps/www/capitattoo/wp-content/themes/capitattoo/styles/example.json: Syntax error in C:\Program Files\Ampps\www\capitattoo\wp-includes\functions.php on line 6085
+[05-Oct-2024 21:56:10 UTC] PHP Notice:  Function get_block_patterns was called <strong>incorrectly</strong>. Could not register file "C:\Program Files\Ampps\www\capitattoo/wp-content/themes/capitattoo/patterns/example.php" as a block pattern ("Slug" field missing) Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.0.0.) in C:\Program Files\Ampps\www\capitattoo\wp-includes\functions.php on line 6085
+[05-Oct-2024 22:27:11 UTC] PHP Notice:  Function get_block_patterns was called <strong>incorrectly</strong>. Could not register file "C:\Program Files\Ampps\www\capitattoo/wp-content/themes/capitattoo/patterns/example.php" as a block pattern ("Slug" field missing) Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.0.0.) in C:\Program Files\Ampps\www\capitattoo\wp-includes\functions.php on line 6085
+[05-Oct-2024 22:28:00 UTC] Successfully inserted data.
+[05-Oct-2024 23:03:22 UTC] PHP Notice:  Function get_block_patterns was called <strong>incorrectly</strong>. Could not register file "C:\Program Files\Ampps\www\capitattoo/wp-content/themes/capitattoo/patterns/example.php" as a block pattern ("Slug" field missing) Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.0.0.) in C:\Program Files\Ampps\www\capitattoo\wp-includes\functions.php on line 6085
+[06-Oct-2024 00:59:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\capitattoo\wp-includes\rest-api\endpoints\class-wp-rest-edit-site-export-controller.php on line 95
+[06-Oct-2024 01:27:24 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Program Files\Ampps\www\capitattoo\wp-content\themes\capitattoo\functions.php on line 126
+[06-Oct-2024 01:27:24 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Program Files\Ampps\www\capitattoo\wp-content\themes\capitattoo\functions.php on line 126
+[06-Oct-2024 01:28:02 UTC] Successfully updated booking status for ID: 1
+[06-Oct-2024 01:29:57 UTC] Successfully updated booking status for ID: 2
+[06-Oct-2024 01:32:42 UTC] Successfully updated booking status for ID: 3
+[06-Oct-2024 01:32:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Program Files\Ampps\www\capitattoo\wp-includes\script-loader.php:2936) in C:\Program Files\Ampps\www\capitattoo\wp-includes\pluggable.php on line 1435
+[06-Oct-2024 01:32:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Program Files\Ampps\www\capitattoo\wp-includes\script-loader.php:2936) in C:\Program Files\Ampps\www\capitattoo\wp-includes\pluggable.php on line 1438
+[06-Oct-2024 01:36:29 UTC] Successfully updated booking status for ID: 1
+[06-Oct-2024 01:36:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Program Files\Ampps\www\capitattoo\wp-includes\script-loader.php:2936) in C:\Program Files\Ampps\www\capitattoo\wp-includes\pluggable.php on line 1435
+[06-Oct-2024 01:36:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Program Files\Ampps\www\capitattoo\wp-includes\script-loader.php:2936) in C:\Program Files\Ampps\www\capitattoo\wp-includes\pluggable.php on line 1438
+[06-Oct-2024 01:40:06 UTC] Successfully updated booking status for ID: 3
+[06-Oct-2024 01:40:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Program Files\Ampps\www\capitattoo\wp-includes\script-loader.php:2936) in C:\Program Files\Ampps\www\capitattoo\wp-includes\pluggable.php on line 1435
+[06-Oct-2024 01:40:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Program Files\Ampps\www\capitattoo\wp-includes\script-loader.php:2936) in C:\Program Files\Ampps\www\capitattoo\wp-includes\pluggable.php on line 1438
+[06-Oct-2024 01:53:12 UTC] Headers already sent, cannot redirect
+[07-Oct-2024 19:44:41 UTC] Automatic updates starting...
+[07-Oct-2024 19:44:44 UTC] Automatic updates complete.
+[08-Oct-2024 23:22:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\capitattoo\wp-includes\widgets.php on line 26
+[08-Oct-2024 23:22:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\capitattoo\wp-includes\functions.php on line 6864
+[08-Oct-2024 23:22:50 UTC] Automatic updates starting...
+[08-Oct-2024 23:22:54 UTC] Automatic updates complete.
+[09-Oct-2024 00:25:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Program Files\Ampps\www\capitattoo\wp-includes\class-wp-styles.php:290) in C:\Program Files\Ampps\www\capitattoo\wp-includes\pluggable.php on line 1093
+[09-Oct-2024 00:25:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Program Files\Ampps\www\capitattoo\wp-includes\class-wp-styles.php:290) in C:\Program Files\Ampps\www\capitattoo\wp-includes\pluggable.php on line 1094
+[09-Oct-2024 00:25:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Program Files\Ampps\www\capitattoo\wp-includes\class-wp-styles.php:290) in C:\Program Files\Ampps\www\capitattoo\wp-includes\pluggable.php on line 1095
+[09-Oct-2024 00:25:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Program Files\Ampps\www\capitattoo\wp-includes\class-wp-styles.php:290) in C:\Program Files\Ampps\www\capitattoo\wp-includes\pluggable.php on line 1435
+[09-Oct-2024 00:25:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Program Files\Ampps\www\capitattoo\wp-includes\class-wp-styles.php:290) in C:\Program Files\Ampps\www\capitattoo\wp-includes\pluggable.php on line 1438
+[09-Oct-2024 00:42:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Program Files\Ampps\www\capitattoo\wp-includes\class-wp-styles.php:290) in C:\Program Files\Ampps\www\capitattoo\wp-includes\pluggable.php on line 1435
+[09-Oct-2024 00:42:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Program Files\Ampps\www\capitattoo\wp-includes\class-wp-styles.php:290) in C:\Program Files\Ampps\www\capitattoo\wp-includes\pluggable.php on line 1438
+[09-Oct-2024 17:56:19 UTC] Automatic updates starting...
+[09-Oct-2024 17:56:24 UTC] Automatic updates complete.
+[09-Oct-2024 18:01:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\capitattoo\wp-includes\block-patterns\query-medium-posts.php on line 9
+[09-Oct-2024 18:58:15 UTC] Automatic updates starting...
+[09-Oct-2024 18:58:15 UTC] Automatic updates complete.
+[09-Oct-2024 20:39:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\capitattoo\wp-includes\rest-api\endpoints\class-wp-rest-menus-controller.php on line 578
+[09-Oct-2024 20:39:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\capitattoo\wp-includes\functions.php on line 4629
+[10-Oct-2024 18:40:10 UTC] Automatic updates starting...
+[10-Oct-2024 18:40:12 UTC] Automatic updates complete.
+[10-Oct-2024 18:43:29 UTC] Automatic updates starting...
+[10-Oct-2024 18:43:29 UTC] Automatic updates complete.
+[04-Dec-2024 22:42:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\capitattoo\wp-includes\category-template.php on line 1556
+[04-Dec-2024 22:43:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\capitattoo\wp-includes\blocks\comments-pagination-next.php on line 64
+[04-Dec-2024 22:44:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\capitattoo\wp-includes\blocks.php on line 415
+[04-Dec-2024 22:44:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\capitattoo\wp-includes\class-wpdb.php on line 2344
+[04-Dec-2024 22:44:57 UTC] Automatic updates starting...
+[04-Dec-2024 22:45:03 UTC]   Automatic plugin updates starting...
+[04-Dec-2024 22:45:05 UTC]   Automatic plugin updates complete.
+[04-Dec-2024 22:45:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\capitattoo\wp-includes\theme.php on line 521
